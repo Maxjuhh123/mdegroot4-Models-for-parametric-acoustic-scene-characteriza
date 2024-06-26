@@ -1,0 +1,15 @@
+numpy==1.24.4
+argparse==1.4.0
+pyroomacoustics==0.7.4
+matplotlib==3.7.5
+scipy==1.10.1
+soundfile==0.12.1
+pandas==2.0.3
+pystoi==0.4.1
+scikit-learn==1.5.0
+ipython==8.18.1
+tol-colors==1.2.1
+h5py==3.11.0
+
+# Pysiib requirement from github
+pysiib @ git+https://github.com/kamo-naoyuki/pySIIB.git
